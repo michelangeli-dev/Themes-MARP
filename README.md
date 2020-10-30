@@ -1,4 +1,4 @@
-# Mes tèmes pour MARP
+# Mes thèmes pour MARP
 
 Thèmes développés pour le logiciel MARP (création de diaporama en Markdown)
 
