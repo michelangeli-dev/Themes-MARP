@@ -5,7 +5,7 @@ Thèmes développés pour le logiciel [MARP](https://marp.app/) (création de di
 Pour utiliser le thème « ecole », après avoir téléchargé la dernière version vous devez le renommer en « ecole.css ».
 Puis, vous le copiez dans un dossier appelé « themes » par exemple présent à la racine de votre espace de travail de VSCode.
 
-Dans la page de configuration de l'extension MARP de VSCode, vous entrer le chemin suivant : themes/ecole.css
+Dans la page de configuration de l'extension MARP de VSCode, vous entrez le chemin suivant : themes/ecole.css
 
 Le thème sera alors utilisable.
 
