@@ -9,9 +9,9 @@ Dans la page de configuration de l'extension MARP de VSCode, vous entrez le chem
 
 Le thème sera alors utilisable.
 
-Vous pouvez le modifier à votre convenance et comme je ne suis pas développeur sûrment l'optimiser !
+Vous pouvez le modifier à votre convenance et comme je ne suis pas développeur sûrement l'optimiser !
 
 Vous pouvez aussi trouver un excellent thème chez [Cédric Eyssette](https://github.com/eyssette/teaching-theme-for-marp).
 Grand merci à lui pour son aide dans cette aventure.
 
-Bon diaporama.
+Je vous souhaite de réaliser de bonnes créations.
