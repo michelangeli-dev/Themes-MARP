@@ -1,0 +1,92 @@
+/* @theme ecole */
+/* par jean-yves Michelangeli */
+
+@import 'gaia';
+@charset "UTF-8";
+
+section {
+  background-color: rgb( 255 255 250) ;
+  color: black ;
+  font-family: Helvetica ;
+  font-size : 180%
+  
+}
+
+/* Titre niveau 1 en rouge */
+section.h1rouge h1 {
+    color: rgb(117 20 12) ;
+}
+
+/* Titre niveau 1 en violet */
+section.h1violet h1 {
+    color: rgb(74 35 90) ;
+}
+
+/* Titre niveau 2 en orange */
+section.h2orange h2 {
+    color: rgb(211 84 0) ;
+}
+ 
+/* Titre niveau 2 en vert */
+section.h2vert h2 {
+    color: rgb(14 98 81) ;
+} 
+
+/* Dispositions en grille */
+section.titre {
+    display:grid ;
+    grid-gap: 0px ;
+    /*align-items: center ;*/
+}
+
+/* Diapositive `PREMIÈRE` */
+section.premiere {
+    background-color: rgb(12 3 125) ;
+    color: rgb(255 250 255) ;
+    font-size: 230% ;
+}
+
+/* DIAPOSITIVE “ANNONCE” */
+section.annonce h1 {
+    /*background: #00000009 ;*/
+    background-color: rgb(12 100 200) ;
+    border-top: 10px solid #333333 ;
+    border-bottom: 10px solid #333333 ;
+    line-height: 1.3em ;
+    font-size: 200% ;
+    color: white ;
+}
+
+/* DIAPOSITIVE “À SAVOIR” */
+section.asavoir h1 {
+    display: none ;
+}
+
+section.asavoir h2 {
+    background: #00000009;
+    border-top: 10px solid #333333 ;
+    border-bottom:1px solid #333333 ;
+    line-height: 1.3em ;
+    text-align : center ;
+    color: #75140C ;
+}
+
+section.asavoir h3 {
+    text-align : center ;
+}
+
+section.asavoir p {
+    background:  #fcf3cf;
+    padding: 1% 2% ;
+    line-height: 1.3em ;
+    text-align : left ;
+    font-size: 120% ;
+}
+
+section.asavoir ul {
+    background:  #fcf3cf;
+    padding: 1% 5% ;
+    line-height: 1.2em ;
+    text-align : left ;
+    font-size: 120% ;
+}
